@@ -96,7 +96,7 @@ Step through the prompts, using the following value for **Repository URL**. If y
 
 [source,none,role="copypaste"]
 ----
-https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2m4-labs.git
+https://github.com/kahlai/cloud-native-workshop-v2m4-labs.git
 ----
 
 image::crw-clone-repo.png[crw,900]
